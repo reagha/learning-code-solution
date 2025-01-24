@@ -1,0 +1,35 @@
+table {
+  border:1px ridge white;
+  border-radius: 5px;
+  margin-left:auto;
+  margin-right:auto;
+  margin-top: 50%;
+  margin-bottom:50%;
+  height:26px;
+  width:170px;
+  background-color: white;
+}
+img{
+border:1px;
+border-radius: 5px;
+height:150px;
+width: 150px;
+display: block;
+margin: auto;
+margin-top: 10px;
+
+}
+body{
+  background-color: #D5E1Ef;
+}
+h1{
+  color: #1F314F;
+  font-size: 14px;
+}
+p{
+  color: #68778D;
+    font-size: 10px;
+}
+td{
+  text-align: center;
+}
